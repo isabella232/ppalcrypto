@@ -9,7 +9,7 @@ Copyright (c) 2011-2013 Litecoin Developers
 What is PayPalCrypto?
 ----------------
 
-PayPalCrypto is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+PayPalCrypto is a lite version of Bitcoin using x11 as a proof-of-work algorithm.
  - 1 minute block targets
  - subsidy halves in 525600 blocks (~1 years)
  - ~33 million total coins

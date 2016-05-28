@@ -1,7 +1,7 @@
 PayPalCrypto integration/staging tree
 ================================
 
-http://www.paypalcrypto.org
+http://www.ppalcrypto.com
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
@@ -10,16 +10,14 @@ What is PayPalCrypto?
 ----------------
 
 PayPalCrypto is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 1 minute block targets
+ - subsidy halves in 525600 blocks (~1 years)
+ - ~33 million total coins
+ - 21 coins per block
+ - Kimoto Gravity Well - 1 block to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the PayPalCrypto client sofware, see http://www.paypalcrypto.org.
+the PayPalCrypto client sofware, see http://www.ppalcrypto.com
 
 License
 -------

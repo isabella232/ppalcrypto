@@ -1,0 +1,34 @@
+src/*.exe
+src/paypalcrypto
+src/paypalcryptod
+src/test_paypalcrypto
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.paypalcrypto
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+paypalcrypto-qt
+PayPalCrypto-Qt.app
+
+# Unit-tests
+Makefile.test
+paypalcrypto-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile

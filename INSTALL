@@ -1,0 +1,9 @@
+Building PayPalCrypto
+
+See doc/readme-qt.rst for instructions on building PayPalCrypto-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PayPalCrypto.
+
+See doc/build-*.txt for instructions on building paypalcryptod,
+the intended-for-services, no-graphical-interface, reference
+implementation of PayPalCrypto.
